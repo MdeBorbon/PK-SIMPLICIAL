@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Extra Jupyter & Data protection
+.jupyter_workspace
+.local_checkpoints
+*.csv
+*.parquet
+*.pickle
+*.pkl
+.venv/
